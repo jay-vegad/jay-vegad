@@ -1,1 +1,1 @@
-re
+<img src="./banner.png" />
